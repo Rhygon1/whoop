@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Rhygon1/whoop/issues"
   },
-  "homepage": "https://github.com/Rhygon1/whoop#readme"
+  "homepage": "https://github.com/Rhygon1/whoop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
